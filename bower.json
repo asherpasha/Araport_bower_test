@@ -1,0 +1,22 @@
+{
+  "name": "Araport_bower_test",
+  "version": "0.1.0",
+  "homepage": "https://github.com/asherpasha/Araport_bower_test",
+  "authors": [
+    "Asher <asher.pasha@utoronto.ca>"
+  ],
+  "description": "Hello world",
+  "main": "hello.js",
+  "keywords": [
+    "Araport"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
